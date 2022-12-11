@@ -1,0 +1,1 @@
+# qa-dittha-ratanasari-fundamental
