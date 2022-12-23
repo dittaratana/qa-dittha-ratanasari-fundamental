@@ -10,9 +10,9 @@ link website yang diuji : https://alta-shop.vercel.app/
 
 pada mini projek berisi 3 poin yaitu :
 
-- Project 1 - Agile Testing
-- Project 2 - Manual API Testing using Postman
-- Project 3 - Manual Testing Web using TestRail
+- [Project 1 - Agile Testing](https://github.com/dittaratana/qa-dittha-ratanasari-fundamental/tree/main/Project%201)
+- [Project 2 - Manual API Testing using Postman](https://github.com/dittaratana/qa-dittha-ratanasari-fundamental/tree/main/Project%202)
+- [Project 3 - Manual Testing Web using TestRail](https://github.com/dittaratana/qa-dittha-ratanasari-fundamental/tree/main/Project%203)
 
 # Project 1 - Agile Testing
 berdasarkan website kasus yang akan diuji disini dilakukan pembuatan skenario pengujian, test case pengujian, dan jenis pengujian yang dilakukan adalah pengujian fungsional.
@@ -22,3 +22,4 @@ berdasarkan website yang diuji dilakukan pengujian API testing secara manual den
 
 # Project 3 - Manial Testing Web using TestRail
 berdasarkan website kasus yang diuji dan hasil test scenario juga test case yang telah dibuat pada project 1 maka dilakukan manual testing dan memanfaatkan test case management tool yaitu TestRail
+
